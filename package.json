@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopezgonzalo89/FixxBuzz.git"
+  },
+  "author": "Lopez Gonzalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopezgonzalo89/FixxBuzz/issues"
+  },
+  "homepage": "https://github.com/lopezgonzalo89/FixxBuzz#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
