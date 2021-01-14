@@ -15,5 +15,6 @@ Para utilizarla se le debe pasar cómo parámetro un array de ints
 
 Para ejecutar el test se debe ingresar por consola 
 ```bash
+npm install
 npm run test
 ```
