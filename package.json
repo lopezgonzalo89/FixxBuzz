@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lopezgonzalo89/FixxBuzz.git"
+    "url": "git+https://github.com/lopezgonzalo89/FizzBuzz.git"
   },
   "author": "Lopez Gonzalo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lopezgonzalo89/FixxBuzz/issues"
+    "url": "https://github.com/lopezgonzalo89/FizzBuzz/issues"
   },
-  "homepage": "https://github.com/lopezgonzalo89/FixxBuzz#readme",
+  "homepage": "https://github.com/lopezgonzalo89/FizzBuzz#readme",
   "devDependencies": {
     "jest": "^26.6.3"
   }
